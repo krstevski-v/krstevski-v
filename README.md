@@ -13,6 +13,7 @@ Below you will find my projects categorized by industry and business problem.
 | **[Banking Marketing Analysis](https://github.com/krstevski-v/bank-marketing-campaign)** | Enhancing cross-sell efficiency in retail banking based on telemarketing campaign data. | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black) |
 | **[Youtube Video Trends](https://github.com/krstevski-v/youtube-video-trends)** | Analyzing virality behaviors and publishing trends to sustain audience reach. | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 | **[Company Marketing Dashboard](https://github.com/krstevski-v/company-marketing-dashboard)** | Campaign performance overview dashboard for different ad companies | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black) |
+| **[Telecommunications Churn Report](https://github.com/krstevski-v/telco-customer-churn)** | Customer churn report of a Telecommunications company  | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black) |
 
 
 ---

@@ -54,4 +54,4 @@ Below you will find my projects categorized by industry and business problem.
 | Project | Description | Tools Used |
 | :--- | :--- | :--- |
 | **[FIFA21 Data Cleaning](https://github.com/krstevski-v/fifa21-data-cleaning)** | Cleaning a complex, dirty database to create a high-integrity CSV output. | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
-| **[Glassdoor Job Postings](https://github.com/krstevski-v/fifa21-data-cleaning)** | Data cleaning & EDA of Glassdoor data-related job postings  | ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| **[Glassdoor Job Postings](https://github.com/krstevski-v/data-job-postings)** | Data cleaning & EDA of Glassdoor data-related job postings  | ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
